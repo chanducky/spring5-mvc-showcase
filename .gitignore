@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+target
+.gradle
+.classpath
+.project
+.settings
+.metadata
+.factorypath
+.recommenders
+.springBeans
+manifest.yml
+MANIFEST.MF
+
